@@ -9,7 +9,7 @@
 
 # B
 
-- **BetterTouchTool *-necessary*
+- **BetterTouchTool** *-necessary*
 - BlueStacks
 
 # C
