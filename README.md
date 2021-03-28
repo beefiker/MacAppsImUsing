@@ -9,7 +9,7 @@
 
 # B
 
-- **BetterTouchTool *-**necessary*
+- **BetterTouchTool *-necessary*
 - BlueStacks
 
 # C
@@ -54,7 +54,7 @@
 
 # K
 
-- **Keka** -necessary
+- **Keka** *-necessary*
 - KakaoTalk
 
 # L
@@ -63,9 +63,9 @@
 
 # M
 
-- **Magnet** **-**necessary
-- Microsoft **Word**, **Ppt**, Excel **-**necessary
-- **MAMP** **-**necessary
+- **Magnet** *-necessary*
+- Microsoft **Word**, **Ppt**, **Excel** *-necessary*
+- **MAMP** *-necessary*
 - Mounty
 
 # N
@@ -88,28 +88,28 @@
 
 # R
 
-- **RunCat** -necessary
+- **RunCat** *-necessary*
 
 # S
 
 - Slack
-- **Spotify** -necessary
-- **SoundSource** -necessary
+- **Spotify** *-necessary*
+- **SoundSource** *-necessary*
 - Scroll Reverser
 
 # T
 
 - Turbo Boost Switcher Pro
-- **Transmission** -necessary
+- **Transmission** *-necessary*
 
 # U
 
-- **Unicorn** -necessary
+- **Unicorn** *-necessary*
 
 # V
 
-- **VirtualBox** -necessary
-- **Visual Studio Code** -necessary
+- **VirtualBox** *-necessary*
+- **Visual Studio Code** *-necessary*
 
 # W
 
