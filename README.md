@@ -133,7 +133,6 @@
 
 - Material Theme UI
 - Nyan Progress Bar
-- One Dark theme
 - Presentation Assistant
 
 ### VCS
